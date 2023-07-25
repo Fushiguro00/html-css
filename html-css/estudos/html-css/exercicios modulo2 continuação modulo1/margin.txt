@@ -1,0 +1,24 @@
+margin
+
+para deixar uma margin no meio deixa margin auto.
+
+outiline fica entre a marca e a borda
+
+o jeito de simplificar e mais facil
+em vez de escrever um codigo interiro so coloca
+border: valor do px, solid e a cor
+
+quando vc coloca apenas 2 valores ele vai repetir
+apenas em cima e em baixo
+caso querer todos com um valor igual apenas escreva
+um valor
+
+a sequencia sempre vai ser 
+cima,direita,baixo e esquerda.
+ mas ja o outline vai ser
+largura e espressura e a cor 
+
+o display pode mudar tudo, deixando em block
+
+SOMBRAS
+

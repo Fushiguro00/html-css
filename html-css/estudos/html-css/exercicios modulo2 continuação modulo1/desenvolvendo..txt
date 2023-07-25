@@ -1,0 +1,8 @@
+aprendendo
+herader= cabeçalho
+main= conteudo principal
+
+modelo de caixa utiliza box
+para sombra swadow
+tamebm tem como deixar uma sombra no 
+texto usa: text shadow

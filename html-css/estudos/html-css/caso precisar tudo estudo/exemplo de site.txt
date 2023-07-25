@@ -1,0 +1,56 @@
+para criar um site voce precisa ter 
+um dominio e uma hospedegem.
+
+url:é um localizador de recuso unico.
+
+gtld: com: comercial, gov: govermanentais,
+edu: educacionais.
+
+hostnet: criaçao de dominio pago.
+
+html: linguagem para marcação de ipertexto
+css: folhas de estilos 
+
+html é uma linguagem usada em conteudo: texto, imagem,
+videos, listas e etc.
+
+css: desingn cores, sombras, tamanho, posicionamento.
+
+              conteudo em html
+<h1> é um exemplo de titulo <h1>
+
+<h1> no inicio é a abertura da tag
+<h1> no final ´eo fechamento da tag.
+<p> exemplo de paragrafo </p>
+
+tag para uma foto
+
+<img src= ''     '' alt= ''      '' >
+
+toda tag pode ter parametro e valores
+
+estilo css
+exemplo
+
+h1{ font-family: arial
+font-size: 20pt
+color:blue;}
+
+estrutura basica de documento html
+
+<!doctype html>
+<html lang= ''pt-br''/>
+  <head>
+      <meta charset= ''utf-8''>
+      <meta name=''viewport''
+       conttent=''width=device-width,
+       initial-scale=1.0''>
+       <title>document</title>
+  <head/>
+  <body>
+     <h1>Olá, Mudo!</h1>
+  <body>
+</html>
+
+
+   

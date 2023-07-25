@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+h1{
+    /*box level*/
+   
+    background-color: blueviolet;
+
+    height: 300px;
+    width: 300px;
+   
+
+ border: 10px solid rgba(236, 4, 4, 0.815);
+
+ padding: 10px;
+
+margin: 20px auto 40px auto;
+
+outline: 5px dashed blue;
+}
+a{ /*inline level*/
+
+   border: 10px solid yellowgreen;
+  padding: 10px 30px 10px 40px;
+   }

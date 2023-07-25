@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="android-chrome-192x192.png" type="image/x-icon">
+    <title>midias em html5</title>
+</head>
+<body>
+    <h1>iamgem dinamica</h1>
+    <p>tente abrir esse site em varios dispositivos diferentes e simplesmente aumenta e diminui o tamanho do seu navegador</p>
+
+    <picture>
+        <source media="(max-width: 750px)" srcset="imagens/IMAGEMPEQUENA.png" type="image/png">
+        <source media="(max-width: 1050px)" srcset="imagens/IMAGEMMEDIA.png">
+<img src="imagens/IMAGEMGRANDE.png" alt="iamgem flexível">
+    </picture>
+    <h1>reproduzindo audio</h1>
+    <p>vamos colocar um audio</p>
+    <audio>
+     <audio preload="metadata" autoplay controls loop></audio> <!--o loop não e recomendado porque a musica não acaba fica em um ciclo infinito.-->
+        <source src="midia/Early Avril - Unicorn Heads.mp3" type="audio/mpeg">
+        <source src="midia/Early Avril - Unicorn Heads.ogg" type="audio/ogg">
+        <source src="midia/Early Avril - Unicorn Heads.wav" type="wav">
+    </audio>
+    <p>infelizmente o audio não é compativel com o seu dispositivo, clik aqui para abaixar. <a href="midia/Early Avril - Unicorn Heads.mp3">dowload</a> </p>
+</body>
+</html>

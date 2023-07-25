@@ -1,0 +1,72 @@
+em html é id no css é#
+
+em html é class em css é .
+
+o seletor personalizado é quando vc coloca o 
+id em algum H1,H2....
+EXEMPLO: h1 id"principal"
+
+o id so pode usar uma vez, mesmo que funciona
+
+o class se coloca nos h para diferenciar 
+cada um deles exemplo
+    <h2 class="intermediario">css intermediario</h2>
+no css sempre coloca .
+exemplo: .intermediario{
+color: #d8ef0c;
+}
+
+tudo que for da class vai ficar da configuração que foi 
+colocada no css
+
+se vc coloca um span no texto class e a class que vc coloco
+ vai fica nas configurações da class so muda que no texto
+
+tem como coloca 2 calss em uma 
+so vc coloca exemplo: <h2 class="intermediario destaque">css intermediario</h2>
+
+tbm tem como colocar uma class no id
+
+heigth: altura
+width: largura
+boder: borda
+
+uma pseudo-classes tem que estar com um
+elemento ou uma classe
+
+pseudo classe: ..
+
+pseudo elemento: ::
+
+hover aparece quando passa o mause em cima.
+
+tbm tem como deixar um paragrafo dentro de uma div.
+apenas utilizar <div> <p> <p> </div>
+
+e para deixar o texto escondido, dentro do style coloca   div > p{
+        display: none; }
+> esse sinal significa que o paragrafo esta dentro da div.
+
+para aparecer o texto escondido depois que passa o mause na palavra, utiliza-se div:hover > p{
+    display: block;
+    color:;
+    background-color:
+    width 300px
+}
+tambem tem como colocar o tamanho do paragrafo 
+dentro disso tudo apenas escreve width: e o tamanho em px
+
+tambem tem como deixar so uma coisa com algum elemento
+voce so tem que colocar  class="especial ou outra coisa" 
+
+e ir no style e colocar .especail::before ou  .especial::after
+
+
+resumo das pseudos
+
+.. = peseudo class
+:: = pesuedo elementos
+> = clilden "significa: o filho"
+* = id
+
+

@@ -1,0 +1,23 @@
+           Frond-end e Back-end
+frond-end= ve o lado do cliente, em gerae=r parte 
+visual do site.
+back-and: mais interessado na interação do codigo 
+php,jav sarvidor, phaytho etc.
+
+javascript: interatividade
+css: estilo
+html: conteudo
+
+h1:é uma marca
+p:é uma tag
+
+!:inicio
+
+&lt: significa less than= menor que
+&gt: significa greater than = maior
+ que 
+
+para adicionar mais emogi no index pesquisa 
+emogi pidia
+para colocar o emogi utiliza:&#x1f596
+V

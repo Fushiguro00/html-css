@@ -1,0 +1,19 @@
+
+body{
+    background-color: black; 
+    color: white;
+    font-family: cursive;
+    font-size: 20px; }
+
+            h1{
+                color: darkblue; }
+
+                h2{
+                    color: red;
+                }
+
+                p{
+                    color: grey;
+                    text-align: justify;
+                }
+                 </style>

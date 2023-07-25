@@ -1,0 +1,61 @@
+MODELOS DE CAIXA
+
+anatomia de uma caixa
+
+altura= height
+largura= width
+
+trazar lihha na volta do conteudo
+borda= border
+
+almentar a borda
+espaço= padding
+espaço externo= margin
+trasado= outline
+
+o padding e um espaço interno
+
+todo conteudo tem largura e altura.
+
+dois tipo de caixa
+
+box-level= box level se inicia uma linha nova
+e ocupa a linha inteira
+inline-level= fica do lado do conteudo e não
+pula linha e não ocupa o tamanho inteiro
+
+diferença entre div  e span
+
+div= é quando voce quer quebra uma linha
+e criar um box que ocupa a linha inteira
+span= deixa o elemento do lado da caixa
+
+box level 
+div
+h1 a h6
+p
+main
+header
+nav
+article
+aside
+footer
+form
+video
+
+inline lavel
+
+span
+a
+small
+code
+strong
+em
+sup - sub
+label
+button
+input
+select
+
+
+

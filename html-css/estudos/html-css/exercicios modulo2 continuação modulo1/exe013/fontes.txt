@@ -1,0 +1,25 @@
+peso da fonte é font-weight
+weight: significa peso tamanho da letra.
+width: significa largura
+height:significa altura.
+
+cada uma delas pode colocar uma porcentagem
+
+esxiste medidas absolutas: são cm, mm, in"polegada"px, pt, pc-->
+
+medidas relativas: em, ex "altura x", rem,vw"porcentagem da viwcorte", %.
+recomendação: utilizar px e em
+
+pesos literais
+lighter: mais leve
+normal: negrito
+bold bolder: mais negrito
+
+text-decoration: under line
+deixa tudo sublinhado
+
+font-style: italic 
+deixa tudo em italico
+
+a ordem semprem vai ser 
+font-style, font-weight, font-family

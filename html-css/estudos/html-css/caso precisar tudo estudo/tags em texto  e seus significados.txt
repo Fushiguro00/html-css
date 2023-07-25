@@ -1,0 +1,68 @@
+tags em texto  e seus significados
+
+tags <i> <b> <em> <strong> <mark> <ul> <li>
+<ol> <a> <p>
+
+significado
+
+ <mark>: destaque especial: tipo um marca
+texto
+
+<i>: italico apenas serve para destarcar 
+alguma palavra qualquer
+
+<b>: negrito= apenas destacar alguma palara
+sem informar que não tem importancia
+
+ <em>:essa tag significa italico 
+semantico= serve para dar enfase no texto
+
+<strong>: negrito semantico = essa dag 
+serve para acrecentar importancia para 
+aquele conteudo
+
+<ol>lista ordenadas
+
+<ul> lista não ordenada (<li>) sempre 
+dentro do <ul>
+
+<li> lista
+
+<a> link
+<p> paragrafo
+
+*: ela dentro do css vale para todos os elementos
+
+a tag transition-duration coloca uma transição em 
+alguns segundos
+
+exemplo
+transition-duration:1s
+
+ text-indent é o recuo no inicio do texto
+
+exemplo:  text-indent:20px;
+
+ line-height que é a altura da linha, nela se utiliza
+"em" que é a altura entre linhas
+
+ list-style-position: inside; deixa as bolihas, numeros ou letras
+dentro da caixa de texto do main
+
+columns é o tanto de coluna que voce quer colocar na sua lista
+ordenadas
+
+list-style-type é onde voce coloca o emogi 
+utiliza como list-style-type:' \ codigo do emogi\00a0'; 
+\00a0 é o espaço entre o emogi
+porem não funciona em todos os navegadores.
+
+::after é antes
+
+macete para videos, coloca ele expansivo e centralizado
+vai no index e no video coloca uma div class ou um id "video"
+depois vai no css e cria uma div.video e coloca as configurações
+depois coloca uma div.video>iframe e configura o video
+
+top: significa a distancia 
+left: é a largura de distancia

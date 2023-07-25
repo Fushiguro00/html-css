@@ -1,0 +1,82 @@
+<style>
+        body{
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: cornflowerblue;
+            color: black;
+            width: 400px;
+            height: 10px;
+            margin: auto;
+            text-align: justify;
+        }
+        
+        header{ font-family: cursive;
+            font-style: italic;
+            background-color: rgb(134, 166, 226);
+          border: 10px solid rgb(157, 172, 199) ;
+            color: white;
+            padding-left: 30px;
+           margin: 30px ;
+           
+         
+        }
+
+nav{
+    background-color: rgb(252, 252, 254);
+    padding:5px;
+    margin: 10px 20px 10px 20px;
+
+}
+
+nav > a{
+    text-decoration: none;
+    color: yellowgreen;
+    font-weight: bold;
+    
+   
+}
+
+nav > a:hover{
+    text-decoration: none;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    padding-right: 40px;
+}
+        article{
+            background-color: slategrey;
+            margin: 10px;
+            padding: 10px;
+        }
+        article > aside{
+            background-color: rgb(85, 89, 94);
+           margin: 5px;
+           padding: 20px;
+        }
+        main{
+            background-color: rgb(7, 127, 127);
+            padding: auto;
+            margin: 10px;
+            color: white;
+            padding: 10px;
+        }
+        
+        footer>p{
+            background-color: black;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            margin: 5px;
+            
+        }
+        
+        h2{
+            background-size: auto;
+            background-color: blue;
+            color: antiquewhite;
+            font-size: 30px;
+            font-family: cursive;
+            width: auto;
+            margin: 10px;
+            padding: 20px;
+            
+        }
+    </style>
